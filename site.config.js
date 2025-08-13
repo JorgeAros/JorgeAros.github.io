@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Ethical Hacker",
     bio: "",
     email: "j.arosgonzalez@gmail.com",
-    linkedin: "https://www.linkedin.com/in/jorge-alexis-aros-gonz%C3%A1lez-63138a26b/",
+    linkedin: "www.linkedin.com/in/jorgearosg",
     github: "",
     instagram: "",
   },
