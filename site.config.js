@@ -18,6 +18,14 @@ const CONFIG = {
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
+  projects: [
+    {
+      name: "",
+      description: "",
+      link: "",
+    },
+  ],
+  
   // CONFIG configration (required)
   link: "https://jorge-aros-github-io.vercel.app/",
   since: 2025, // If leave this empty, current year will be used.
