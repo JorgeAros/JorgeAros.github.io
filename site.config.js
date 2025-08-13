@@ -20,8 +20,8 @@ const CONFIG = {
 
     projects: [
     {
-      name: `CV`,
-      href: "https://drive.google.com/file/d/1zPtQD-lCvN9YUSLD_2Jq6hM7KExzzHHO/view?usp=sharing",
+      name: `Curriculum Vitae`,
+      href: "https://drive.google.com/file/d/1pDfXE_wwdRR3ky3xR_HWfG1xSFC3Q6GD/view?usp=sharing",
     },
   ],
   
