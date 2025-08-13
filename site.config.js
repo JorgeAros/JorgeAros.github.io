@@ -18,11 +18,10 @@ const CONFIG = {
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
-  projects: [
+    projects: [
     {
-      name: "",
-      description: "",
-      link: "",
+      name: ``,
+      href: "",
     },
   ],
   
